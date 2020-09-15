@@ -18,4 +18,8 @@ public class C {
 
     }
 
+    public void m7(){
+
+    }
+
 }
