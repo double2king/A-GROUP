@@ -11,4 +11,8 @@ public class C {
         System.out.println("c");
     }
 
+    public void m5(){
+
+    }
+
 }
