@@ -6,4 +6,8 @@ public class C {
         System.out.println("ok");
     }
 
+    public void m3(){
+        System.out.println("m3");
+    }
+
 }
