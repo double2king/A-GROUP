@@ -25,5 +25,9 @@ public class C {
     public void m7(){
 
     }
+    
+    public void m9(){
+
+    }
 
 }
