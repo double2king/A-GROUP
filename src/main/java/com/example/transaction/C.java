@@ -10,6 +10,9 @@ public class C {
         System.out.println("m3");
         System.out.println("c");
     }
+    
+    public void tem(){
+    }
 
     public void m5(){
 
